@@ -1,0 +1,27 @@
+body{
+    background-color: #000;
+}
+h1{
+    color: #fff;
+}
+ul > li{
+    background: red;
+    height: 110px;
+    width: 210px;
+    list-style: none;
+}
+.card{
+    
+   
+    text-decoration: none;
+    font-weight: bold;
+}
+.card_name > span {
+    font-size: 8px;
+}
+.card_name {
+    font-size: 18px;
+}
+.card_total{
+    font-size: 25px;
+}
